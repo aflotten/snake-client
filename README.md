@@ -9,6 +9,7 @@ Before you can run this client, you will need to be running the server side whic
 ## Final Product
 
 !["A still image of the game once successfuly executed the start program"](../Screen%20Shot%202022-10-19%20at%206.47.54%20PM.png)
+<img width="459" alt="Screen Shot 2022-10-19 at 6 47 54 PM" src="https://user-images.githubusercontent.com/87041176/196855027-4dc2ec78-e833-4507-966f-baa1d8a7513a.png">
 
 
 ## Getting Started
